@@ -29,7 +29,7 @@ A backend application developed using **Java** and **Spring Boot** to manage cor
 1. **Clone the Repository**
    
 bash
-   git clone https://github.com/Saheeljamadar18/student-library-management-system
+   git clone [https://github.com/Saheeljamadar18/student-library-management-system](https://github.com/Saheeljamadar18/student_library_management)
    cd student-library-management-system in these pattern full
 
 
